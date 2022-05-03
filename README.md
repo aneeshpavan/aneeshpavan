@@ -1,7 +1,7 @@
 ### Heylo, welcome to my profile 🦊
 
 
-I’m Aneesh Pavan Prodduturu, but it’s okay to call me Aneesh or Prodduturu (Just not Pavan 😬). I'm a photophile and a nephrophile.
+I’m Aneesh Pavan Prodduturu, but it’s okay to call me Aneesh or Prodduturu (Just not Pavan 😬). I'm a Photophile 📸 and a Nephophile ☁️.
 
 - 🛸 Currently an intern at SYKE (All about Legal Tech)
 - 💻 Studying Bachelors of Technology - Computer Science & Engineering at Lovely Professional University
@@ -18,7 +18,7 @@ I’m Aneesh Pavan Prodduturu, but it’s okay to call me Aneesh or Prodduturu (
 - 🔗 Also built QR Generator - <a href="https://qrcode--generator.herokuapp.com/" target="_blank">Give it a try!</a>
 - ⌛ Loading more...
 
-<div align="right">
+<div>
   
 ### Flexing my Stats
   
