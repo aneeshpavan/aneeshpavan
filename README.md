@@ -5,7 +5,7 @@ I’m Aneesh Pavan Prodduturu, but it’s okay to call me Aneesh or Prodduturu (
 
 
 - 💻 Current Grad Student (MS - Computer Science) at Missouri University of Science & Technology 
-- 🛸 Was an intern at SYKE (All about Legal Tech)
+- 🛸 Was an intern at SYKE INDIA (All about Legal Tech)
 - 💻 Undergraduate - Bachelors of Technology - Computer Science & Engineering at Lovely Professional University
 - 🗣️ Can speak English and Telugu
 - 🤓 Learning "the code thing"
@@ -14,7 +14,7 @@ I’m Aneesh Pavan Prodduturu, but it’s okay to call me Aneesh or Prodduturu (
 
 ### Super cool facts about me 
 
-- 📸 Nature photographer (Mobile, GoPro)
+- 📸 Nature photographer (Mobile)
 - 🏔️ Loves capturing Timelapses
 - 🔗 Built my Portfolio Website + 📈 Adsense Enabled + Hosted on GitHub - <a href="https://aneeshpavan.github.io/" target="_blank">Look!</a>
 - 🔗 Also built QR Generator - <a href="https://qrcode--generator.herokuapp.com/" target="_blank">Give it a try!</a>
