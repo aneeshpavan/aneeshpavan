@@ -3,8 +3,10 @@
 
 I’m Aneesh Pavan Prodduturu, but it’s okay to call me Aneesh or Prodduturu (Just not Pavan 😬). I'm a Photophile 📸 and a Nephophile ☁️.
 
-- 🛸 Currently an intern at SYKE (All about Legal Tech)
-- 💻 Studying Bachelors of Technology - Computer Science & Engineering at Lovely Professional University
+
+- 💻 Current Grad Student (MS - Computer Science) at Missouri University of Science & Technology 
+- 🛸 Was an intern at SYKE (All about Legal Tech)
+- 💻 Undergraduate - Bachelors of Technology - Computer Science & Engineering at Lovely Professional University
 - 🗣️ Can speak English and Telugu
 - 🤓 Learning "the code thing"
 - 🔗 Also learning about Photography and Cryptocurrencies
