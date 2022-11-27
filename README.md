@@ -7,9 +7,9 @@ I’m Aneesh Pavan Prodduturu, but it’s okay to call me Aneesh or Prodduturu (
 - 💻 Current Grad Student (MS - Computer Science) at Missouri University of Science & Technology 
 - 💻 Undergraduate - Bachelors of Technology - Computer Science & Engineering at Lovely Professional University
 - 🛸 Was an intern at SYKE INDIA (All about Legal Technologies and Consulting)
-- 🗣️ Can speak English and Telugu
+- 🗣️ Can speak English, Telugu and a little Hindi
 - 🤓 Learning "the code thing"
-- 🔗 Also learning about Photography and Cryptocurrencies
+- 🔗 Also learning about Photography
 - ⌛ Loading more...
 
 ### Super cool facts about me 
