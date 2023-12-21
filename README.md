@@ -1,7 +1,7 @@
 ### Heylo, welcome to my profile 🦊
 
 
-I’m Aneesh Pavan Prodduturu, but it’s okay to call me Aneesh or Prodduturu (Just not Pavan 😬). I'm a Photophile 📸 and a Nephophile ☁️.
+I’m Aneesh Pavan Prodduturu, but it’s okay to call me Aneesh or Prodduturu (Just not Pavan 😬).
 
 
 - 💻 Current Grad Student (MS - Computer Science) at Missouri University of Science & Technology 
