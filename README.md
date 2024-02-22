@@ -17,7 +17,7 @@ I’m Aneesh Pavan Prodduturu, but it’s okay to call me Aneesh or Prodduturu (
 - 📸 Nature photographer (Mobile)
 - 🏔️ Loves capturing Timelapses
 - 🔗 Built my Portfolio Website + 📈 Adsense Enabled + Hosted on GitHub - <a href="https://aneeshpavan.github.io/" target="_blank">Look!</a>
-- 🔗 Also built QR Generator - <a href="https://qrcode--generator.herokuapp.com/" target="_blank">Give it a try!</a>
+- 🔗 Also built QR Generator - <a href="https://qr-now-e45af0966c69.herokuapp.com/" target="_blank">Give it a try!</a>
 - ⌛ Loading more...
 
 <div>
